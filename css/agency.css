@@ -602,6 +602,27 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
+.mentor {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.mentor img {
+  width: 180px;
+  height: 180px;
+  border: 5px solid #dee2e6;
+}
+
+.mentor h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
+.mentor p {
+  margin-top: 0;
+}
+
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
