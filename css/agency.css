@@ -307,6 +307,7 @@ header.masthead .intro-text .intro-heading {
 
 #portfolio * {
   z-index: 2;
+  text-align: center;
 }
 
 @media (min-width: 767px) {
